@@ -1,4 +1,6 @@
-# Mid-infrared polarimetry: a Bayesian approach
+********
+ Mid-infrared polarimetry: a Bayesian approach
+********
 
 :Authors: Enrique Lopez-Rodriguez
 :Web site: http://enloro.github.io/website/
